@@ -346,5 +346,6 @@ If you encounter issues:
 ---
 
 **Built with ❤️ by the Nexo team**
-#   n e x o  
+#   n e x o 
+ 
  
